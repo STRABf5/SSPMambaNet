@@ -1,0 +1,12 @@
+#自己的数据集
+###这个忘记wave操作了，单纯的数据增强
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: ./datasets/base/ImageSets/train.txt  # 118287 images #需要修改路径
+val: ./datasets/base/ImageSets/val.txt  # 5000 images
+test: ./datasets/base/ImageSets/test.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794F:\datasets\huaguo\ImageSets
+
+# number of classes
+nc: 2
+
+# class names
+names: [ 'fl', 'se' ]

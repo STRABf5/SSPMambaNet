@@ -1,4 +1,4 @@
-#Title: SSP-MambaNet: An automated System for Detection and Counting of Missing Seedlings in Glass Greenhouse-Grown Detoxified Strawberry
+# Title: SSP-MambaNet: An automated System for Detection and Counting of Missing Seedlings in Glass Greenhouse-Grown Detoxified Strawberry
 # Details
 ### common.py: the code of model 
 ### flower_count.py: the code of loss

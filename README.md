@@ -19,4 +19,4 @@ To generate synthetic dataset on your own pc, simply check the arguments in test
 ## Detection of seedling deficiency in nutrient pots
 The main algorithm is in tool/detect_Missing_pot.py
 ## Data availability
-
+>>The raw data, among the labels are available upon reasonable request to 18154346943@163.com or .

@@ -17,6 +17,6 @@ To generate synthetic dataset on your own pc, simply check the arguments in test
    python test.py
    ```
 ## Detection of seedling deficiency in nutrient pots
-The main algorithm is in tool/detect_Missing_pot
+The main algorithm is in tool/detect_Missing_pot.py
 ## Data availability
 
